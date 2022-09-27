@@ -1,0 +1,29 @@
+body{
+    color:aliceblue;
+}
+
+
+.jumbotron {
+    padding-top: 6rem;
+    background-image: url(img/bg.jpg);
+    background-size: cover;
+}
+
+#about {
+    background-color: #273036;
+}
+
+#project{
+    background-color: #0a0a0a;
+}
+#contact{
+    background-color: #273036;
+}
+#footer{
+    background-color: #0a0a0a;
+}
+
+
+section{
+    padding-top: 5rem;
+}
